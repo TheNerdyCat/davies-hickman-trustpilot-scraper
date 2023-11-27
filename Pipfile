@@ -15,6 +15,7 @@ requests = "*"
 beautifulsoup4 = "*"
 tqdm = "*"
 scipy = "*"
+vadersentiment = "*"
 
 [dev-packages]
 
